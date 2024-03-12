@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="Print the area of a triangle by given sides. Use formula to calculate it.">
-      <change beforePath="$PROJECT_DIR$/src/TriangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TriangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PineTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +39,16 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TriangleArea">
+  <component name="RunManager" selected="Application.PineTree">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Javatutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PineTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PineTree" />
       <module name="Javatutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PineTree" />
         <item itemvalue="Application.TriangleArea" />
         <item itemvalue="Application.TrianglePerimeter" />
         <item itemvalue="Application.Main" />
@@ -117,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710267219840</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Print the area of a triangle by given sides. Use formula to calculate it.">
+      <option name="closed" value="true" />
+      <created>1710267578207</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710267578207</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
