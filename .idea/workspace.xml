@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="Print the perimeter of a triangle by given sides. Use formula to calculate it." />
+    <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="Print the area of a triangle by given sides. Use formula to calculate it.">
+      <change beforePath="$PROJECT_DIR$/src/TriangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TriangleArea.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,12 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710266948253</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Print the area of a triangle by given sides. Use formula to calculate it.">
+      <option name="closed" value="true" />
+      <created>1710267219840</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710267219840</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="//Store your names in 3 different variables and print your whole name." />
     <MESSAGE value="Print the perimeter of a triangle by given sides. Use formula to calculate it." />
-    <option name="LAST_COMMIT_MESSAGE" value="Print the perimeter of a triangle by given sides. Use formula to calculate it." />
+    <MESSAGE value="Print the area of a triangle by given sides. Use formula to calculate it." />
+    <option name="LAST_COMMIT_MESSAGE" value="Print the area of a triangle by given sides. Use formula to calculate it." />
   </component>
 </project>

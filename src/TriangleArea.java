@@ -1,16 +1,25 @@
+import java.util.Scanner;
+
 public class TriangleArea {
     public static void main(String[] args) {
-        double side1 = 3.0;
-        double side2 = 4.0;
-        double side3 = 5.0;
+        Scanner scanner = new Scanner(System.in);
 
-        double area = calculateArea(side1, side2, side3);
-        System.out.println("Area of the triangle: " + area);
-    }
+        // Input the lengths of the three sides of the triangle
+        System.out.println("Enter the lengths of the three sides of the triangle:");
+        double side1 = scanner.nextDouble();
+        double side2 = scanner.nextDouble();
+        double side3 = scanner.nextDouble();
 
-    public static double calculateArea(double a, double b, double c) {
-        double s = (a + b + c) / 2;
-        return Math.sqrt(s * (s - a) * (s - b) * (s - c));
+        // Calculate the semi-perimeter of the triangle
+        double semiPerimeter = (side1 + side2 + side3) / 2;
+
+        // Calculate the area using Heron's formula
+        double area = Math.sqrt(semiPerimeter * (semiPerimeter - side1) * (semiPerimeter - side2) * (semiPerimeter - side3));
+
+        // Output the area
+        System.out.println("The area of the triangle is: " + area);
+
+        scanner.close();
     }
 }
 //Print the area of a triangle by given sides. Use formula to calculate it.
