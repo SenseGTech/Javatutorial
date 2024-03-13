@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="Write a Java method to find the smallest number among three numebrs">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/I7/constructors/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/I7/constructors/Examples.java" afterDir="false" />
+    <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="Inside the body of the constructor the values of these three parameters are assigned to the fields of the Empployee object.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lab/I7/constructors/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab/I7/constructors/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lab/I7/constructors/Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab/I7/constructors/Examples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710345552922</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Inside the body of the constructor the values of these three parameters are assigned to the fields of the Empployee object.">
+      <option name="closed" value="true" />
+      <created>1710348480692</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710348480692</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +191,7 @@
     <MESSAGE value=" Print pine tree using asterisks in the console." />
     <MESSAGE value="1. Write a program to print the days of the week based on the user digit 1-7 input. The message should be “The [user input digit]-st/nd/rd/thday of the week is [the day of the week]” Hint: Use switch-case." />
     <MESSAGE value="Write a Java method to find the smallest number among three numebrs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Write a Java method to find the smallest number among three numebrs" />
+    <MESSAGE value="Inside the body of the constructor the values of these three parameters are assigned to the fields of the Empployee object." />
+    <option name="LAST_COMMIT_MESSAGE" value="Inside the body of the constructor the values of these three parameters are assigned to the fields of the Empployee object." />
   </component>
 </project>
