@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment=" Print pine tree using asterisks in the console." />
+    <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="1. Write a program to print the days of the week based on the user digit 1-7 input. The message should be “The [user input digit]-st/nd/rd/thday of the week is [the day of the week]” Hint: Use switch-case.">
+      <change afterPath="$PROJECT_DIR$/src/Exercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DayOfWeekPrinter">
+  <component name="RunManager" selected="Application.Exercises">
     <configuration name="DayOfWeekPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayOfWeekPrinter" />
       <module name="Javatutorial" />
@@ -44,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises" />
       <module name="Javatutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercises" />
         <item itemvalue="Application.DayOfWeekPrinter" />
         <item itemvalue="Application.PineTree" />
         <item itemvalue="Application.TriangleArea" />
         <item itemvalue="Application.TrianglePerimeter" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710267925892</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1. Write a program to print the days of the week based on the user digit 1-7 input. The message should be “The [user input digit]-st/nd/rd/thday of the week is [the day of the week]” Hint: Use switch-case.">
+      <option name="closed" value="true" />
+      <created>1710268797287</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710268797287</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,6 +166,7 @@
     <MESSAGE value="Print the perimeter of a triangle by given sides. Use formula to calculate it." />
     <MESSAGE value="Print the area of a triangle by given sides. Use formula to calculate it." />
     <MESSAGE value=" Print pine tree using asterisks in the console." />
-    <option name="LAST_COMMIT_MESSAGE" value=" Print pine tree using asterisks in the console." />
+    <MESSAGE value="1. Write a program to print the days of the week based on the user digit 1-7 input. The message should be “The [user input digit]-st/nd/rd/thday of the week is [the day of the week]” Hint: Use switch-case." />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Write a program to print the days of the week based on the user digit 1-7 input. The message should be “The [user input digit]-st/nd/rd/thday of the week is [the day of the week]” Hint: Use switch-case." />
   </component>
 </project>
