@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="Inside the body of the constructor the values of these three parameters are assigned to the fields of the Empployee object.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/I7/constructors/exercises/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/I7/constructors/exercises/Exercises.java" afterDir="false" />
+    <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="Car class generator contructor exercise">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab/I7/exceptions/Examples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab/I7/exceptions/testFile.text" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.main.java.lab.I7.constructors.exercises.Exercises">
+  <component name="RunManager" selected="Application.main.java.lab.I7.exceptions.Examples">
     <configuration name="DayOfWeekPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayOfWeekPrinter" />
       <module name="Javatutorial" />
@@ -68,13 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PineTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PineTree" />
-      <module name="Javatutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="main.java.lab.I7.constructors.exercises.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.lab.I7.constructors.exercises.Exercises" />
       <module name="Javatutorial" />
@@ -88,13 +81,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main.java.lab.I7.exceptions.Examples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.lab.I7.exceptions.Examples" />
+      <module name="Javatutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.lab.I7.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main.java.lab.I7.exceptions.Examples" />
         <item itemvalue="Application.main.java.lab.I7.constructors.exercises.Exercises" />
         <item itemvalue="Application.Examples" />
         <item itemvalue="Application.Exercises" />
         <item itemvalue="Application.DayOfWeekPrinter" />
-        <item itemvalue="Application.PineTree" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710353705479</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Car class generator contructor exercise">
+      <option name="closed" value="true" />
+      <created>1710357307373</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710357307373</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -214,7 +228,8 @@
     <MESSAGE value="1. Write a program to print the days of the week based on the user digit 1-7 input. The message should be “The [user input digit]-st/nd/rd/thday of the week is [the day of the week]” Hint: Use switch-case." />
     <MESSAGE value="Write a Java method to find the smallest number among three numebrs" />
     <MESSAGE value="Inside the body of the constructor the values of these three parameters are assigned to the fields of the Empployee object." />
-    <option name="LAST_COMMIT_MESSAGE" value="Inside the body of the constructor the values of these three parameters are assigned to the fields of the Empployee object." />
+    <MESSAGE value="Car class generator contructor exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Car class generator contructor exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
