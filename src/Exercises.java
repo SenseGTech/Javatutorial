@@ -15,4 +15,4 @@ public class Exercises {
         return smallestNumber;
     }
 }
-//Write a Java method to find the smallest number among three numebrs
+//Write a Java method to find the smallest number among three numbers
