@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="Inside the body of the constructor the values of these three parameters are assigned to the fields of the Empployee object.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/I7/constructors/vehicle/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/I7/constructors/vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab/I7/constructors/exercises/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab/I7/constructors/exercises/Exercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Examples">
+  <component name="RunManager" selected="Application.main.java.lab.I7.constructors.exercises.Exercises">
     <configuration name="DayOfWeekPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayOfWeekPrinter" />
       <module name="Javatutorial" />
@@ -74,20 +75,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TriangleArea" />
+    <configuration name="main.java.lab.I7.constructors.exercises.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.lab.I7.constructors.exercises.Exercises" />
       <module name="Javatutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.lab.I7.constructors.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main.java.lab.I7.constructors.exercises.Exercises" />
         <item itemvalue="Application.Examples" />
         <item itemvalue="Application.Exercises" />
         <item itemvalue="Application.DayOfWeekPrinter" />
         <item itemvalue="Application.PineTree" />
-        <item itemvalue="Application.TriangleArea" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710353193280</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Inside the body of the constructor the values of these three parameters are assigned to the fields of the Empployee object.">
+      <option name="closed" value="true" />
+      <created>1710353705479</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710353705479</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -200,5 +215,16 @@
     <MESSAGE value="Write a Java method to find the smallest number among three numebrs" />
     <MESSAGE value="Inside the body of the constructor the values of these three parameters are assigned to the fields of the Empployee object." />
     <option name="LAST_COMMIT_MESSAGE" value="Inside the body of the constructor the values of these three parameters are assigned to the fields of the Empployee object." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lab/I7/constructors/vehicle/Car.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
