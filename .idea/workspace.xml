@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="Car class generator contructor exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/I7/exceptions/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/I7/exceptions/testFile.text" afterDir="false" />
+    <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="Checked/Unchecked Exceptions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lab/I7/exceptions/Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab/I7/exceptions/Examples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +216,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710357307373</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Checked/Unchecked Exceptions">
+      <option name="closed" value="true" />
+      <created>1710359164174</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710359164174</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Checked/Unchecked Exceptions">
+      <option name="closed" value="true" />
+      <created>1710359190154</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710359190154</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -229,7 +244,8 @@
     <MESSAGE value="Write a Java method to find the smallest number among three numebrs" />
     <MESSAGE value="Inside the body of the constructor the values of these three parameters are assigned to the fields of the Empployee object." />
     <MESSAGE value="Car class generator contructor exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Car class generator contructor exercise" />
+    <MESSAGE value="Checked/Unchecked Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Checked/Unchecked Exceptions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
