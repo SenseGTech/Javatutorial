@@ -1,7 +1,6 @@
 package main.java.lab.I7.exceptions;
 
-import java.io.File;
-import java.io.FileReader;
+
 
 public class Examples {
     public static void main(String[] args) {
