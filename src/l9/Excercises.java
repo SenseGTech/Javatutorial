@@ -8,10 +8,16 @@ public class Excercises {
         String invalidEGNLength = "12345678901";
         String negativeEGNLength = "-12345678901";
         String invalidEGN = "gosho";
-        Person George = new Person("George", 'm',"Islam","Bulgarian","QA","Bulgarian",validEGNBefore2000, "Bulgaria");
-        System.out.println(George.dateOfBirth);
-        System.out.println(George.age);
-        George.age = 21;
-        System.out.println(George.age);
+        String bulgarian = "Bulgarian";
+        String italian = "italian";
+        String english = "english";
+        String finish = "finish";
+        Person George = new Person("George", 'm',"Islam","Bulgarian","QA",bulgarian,validEGNBefore2000, "Bulgaria");
+
+        //System.out.println(George.dateOfBirth);
+        //System.out.println(George.age);
+        //George.age = 21;
+        //System.out.println(George.age);
+        George.sayHello();
     }
 }

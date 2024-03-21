@@ -27,6 +27,20 @@ public class Person {
         this.dateOfBirth = getDateOfBirth(egn);
         this.age = getAge (dateOfBirth);
     }
+    public void sayHello (){
+        switch (nationality.toLowerCase()){
+            case "bulgarian":
+                System.out.println("Здравей!");
+                break;
+            case "italian":
+                System.out.println("Ciao");
+                break;
+            default:
+                System.out.println("Hello");
+        }
+    }
+
+
 
     public void setJob(String job) {
         this.job = job;

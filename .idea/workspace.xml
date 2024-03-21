@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="Checked/Unchecked Exceptions / Catching multiple exceptions">
-      <change afterPath="$PROJECT_DIR$/src/l9/Excercises.java" afterDir="false" />
+    <list default="true" id="cb1ab573-99dd-4d43-866a-35ae708a0ff8" name="Changes" comment="9. OOP principles practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lab/I7/exceptions/Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab/I7/exceptions/Examples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/l9/Excercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l9/Excercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/l9/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l9/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,7 +257,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710360811097</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="9. OOP principles practice">
+      <option name="closed" value="true" />
+      <created>1711038821319</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711038821319</updated>
+    </task>
+    <task id="LOCAL-00019" summary="9. OOP principles practice">
+      <option name="closed" value="true" />
+      <created>1711038903286</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1711038903286</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,7 +287,8 @@
     <MESSAGE value="Car class generator contructor exercise" />
     <MESSAGE value="Checked/Unchecked Exceptions" />
     <MESSAGE value="Checked/Unchecked Exceptions / Catching multiple exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checked/Unchecked Exceptions / Catching multiple exceptions" />
+    <MESSAGE value="9. OOP principles practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="9. OOP principles practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
