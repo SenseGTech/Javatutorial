@@ -39,4 +39,7 @@ public class Examples {
             System.out.println("Number format Exception " + e);
         }
     }
+    static void testTrowsException(String path) throws FileNotFoundException{
+
+    }
 }
